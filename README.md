@@ -10,15 +10,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=mohammadfaizaankhan01-ctrl&style=for-the-badge&color=ff8a3d" alt="profile views" />
 
-<br/><br/>
-
-<img src="assets/about-illustration.svg" width="85%"/>
-
 </div>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ### 👋 About Me
 
@@ -30,7 +26,13 @@
 - 📍 Based in Bengaluru, Karnataka, India
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
+
+<img src="assets/about-illustration.svg" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ### 🏆 Competitive Programming
 
@@ -39,10 +41,6 @@
 - ✅ HackerRank Certified — JavaScript (Intermediate)
 - Problem Solving
 - Algorithmic Thinking
-
-</td>
-</tr>
-</table>
 
 ### 🛠️ Currently Working On
 
