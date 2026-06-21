@@ -10,11 +10,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=mohammadfaizaankhan01-ctrl&style=for-the-badge&color=ff8a3d" alt="profile views" />
 
-</div>
+<br/><br/>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<img src="assets/about-illustration-v2.svg" width="70%"/>
+
+</div>
 
 ### 👋 About Me
 
@@ -24,15 +24,6 @@
 - 🧩 Strong foundation in algorithms, data structures, and problem-solving
 - 🚀 Open to Internship Opportunities
 - 📍 Based in Bengaluru, Karnataka, India
-
-</td>
-<td width="42%" valign="top">
-
-<img src="assets/about-illustration.svg" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 ### 🏆 Competitive Programming
 
