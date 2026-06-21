@@ -4,15 +4,15 @@
 
 <br/>
 
+<img src="assets/about-illustration-v2.svg" width="70%"/>
+
+<br/><br/>
+
 # Faizaan Khan
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF8A3D&center=true&vCenter=true&width=600&lines=Hello%2C+I+am+Faizaan+Khan;Full-Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=mohammadfaizaankhan01-ctrl&style=for-the-badge&color=ff8a3d" alt="profile views" />
-
-<br/><br/>
-
-<img src="assets/about-illustration-v2.svg" width="70%"/>
 
 </div>
 
